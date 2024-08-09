@@ -18,4 +18,6 @@ Este portfólio tem como objetivo apresentar minhas habilidades em desenvolvimen
 ## Como Executar o Projeto
 1. **Clone o repositório:**
    ```bash
-   git clone [https://es.wiktionary.org/wiki/removido](https://es.wiktionary.org/wiki/removido)
+   git clone(https://github.com/andersonvenancio/anderdev.git)
+cd anderdev
+npm install
